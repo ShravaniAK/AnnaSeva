@@ -1,5 +1,17 @@
 # Live Video :   https://youtu.be/VFbBTwd5c8Y
 
+Problem: Despite the abundance of food in many communities, hunger remains a persistent issue, with millions of people suffering from food insecurity on a daily basis. At the same time, there is a surplus of food waste, with perfectly good food being thrown away or going to waste due to various reasons.
+
+Objective: The aim of this food donation app is to bridge the gap between food surplus and food insecurity, by making it easier for individuals and organizations to donate food to those in need. By providing an intuitive platform for food donations, and connecting donors with nearby food donation centers, the app will help reduce food waste and fight hunger in local communities.
+
+Solution: The food donation app provides a comprehensive solution to the issue of food waste and hunger. The app's two main features - food donation and center locator - work together to address the problem in the following ways:
+
+Food Donation: By providing a simple and convenient platform for food donations, the app makes it easy for individuals and organizations to donate excess food to those in need. The app's user-friendly form for food donations ensures that the information provided is accurate and complete, which can help streamline the donation process and make it more efficient.
+
+Center Locator: The app's center locator feature helps connect donors with nearby food donation centers, making it easier for them to find places to donate their excess food. This feature helps reduce food waste by ensuring that surplus food gets to those who need it, rather than going to waste.
+
+By providing a simple and effective solution to the problem of food waste and hunger, the food donation app has the potential to make a significant impact in local communities and beyond.
+
 
 
 # Getting Started with Create React App
